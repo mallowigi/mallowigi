@@ -6,14 +6,14 @@
 
 ###### The name's Elior, Boukhobza Elior, Developer, Photographer and Food Lover! I love languages, travelling and programming 😄
 
-[![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=mallowigi&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=mallowigi&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/mallowigi)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisRM&repo=material-theme-jetbrains&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-idea&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=slack-themes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=material-dev-tools&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=notifications-preview-github&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-web&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisRM&repo=material-theme-jetbrains&theme=radical)](https://github.com/ChrisRM/material-theme-jetbrains)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-idea&theme=nightowl)](https://github.com/mallowigi/a-file-icon-idea)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=slack-themes&theme=dracula)](https://github.com/mallowigi/slack-themes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=material-dev-tools&theme=tokyonight)](https://github.com/mallowigi/material-dev-tools)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=notifications-preview-github&theme=cobalt)](https://github.com/mallowigi/notifications-preview-github)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-web&theme=onedark)](https://github.com/mallowigi/a-file-icon-web)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallowigi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
