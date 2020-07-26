@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### おはようございます！　私はマロウイギと申します！　僕は開発者です！　どうぞよろしくお願いします。
+
+###### Sup! Here's **Mallowigi**! 🤓 
+
+###### The name's Elior, Boukhobza Elior, Developer, Photographer and Food Lover! I love languages, travelling and programming 😄
+
 [![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=mallowigi&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisRM&repo=material-theme-jetbrains&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
