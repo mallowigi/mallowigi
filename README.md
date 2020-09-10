@@ -6,6 +6,9 @@
 
 ###### The name's Elior, Boukhobza Elior, Developer, Photographer and Food Lover! I love languages, travelling and programming 😄
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mallowigi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=mallowigi&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/mallowigi)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisRM&repo=material-theme-jetbrains&theme=radical)](https://github.com/ChrisRM/material-theme-jetbrains)
