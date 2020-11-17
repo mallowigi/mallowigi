@@ -13,7 +13,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisRM&repo=material-theme-jetbrains&theme=radical)](https://github.com/ChrisRM/material-theme-jetbrains)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-idea&theme=nightowl)](https://github.com/mallowigi/a-file-icon-idea)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=slack-themes&theme=dracula)](https://github.com/mallowigi/slack-themes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=mtslack&theme=dracula)](https://github.com/mallowigi/mtslack)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=material-dev-tools&theme=tokyonight)](https://github.com/mallowigi/material-dev-tools)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=notifications-preview-github&theme=cobalt)](https://github.com/mallowigi/notifications-preview-github)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mallowigi&repo=a-file-icon-web&theme=onedark)](https://github.com/mallowigi/a-file-icon-web)
