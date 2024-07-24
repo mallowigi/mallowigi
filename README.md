@@ -6,7 +6,7 @@
 
 ###### The name's Elior, Boukhobza Elior, Developer, Photographer and Food Lover! I love languages, travelling and programming 😄
 
-
+![mallowigi github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mallowigi)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mallowigi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
